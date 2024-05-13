@@ -36,3 +36,20 @@
 
 
 ```
+
+
+
+
+
+
+
+```
+// Add an event listener to a button element
+
+document.getElementById("myButton").addEventListener("click",function() {
+    console.log("Button clicked");
+})
+
+
+
+```
