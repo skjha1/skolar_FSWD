@@ -384,7 +384,6 @@ With these styles, your user profile viewer should look much more polished and p
 
 
 
-Certainly! Let's break down the `UserProfile` component code in detail.
 
 ### Import Statements
 
